@@ -5,7 +5,7 @@
 
 Main goal of the level: Infiltrate the Castle and move through the Catacombs until you reach the Cathedral where Korax resides.
 
-**Download:**
+**Download:** [Latest Release](https://github.com/Ear1h/WAD-HEXEN-RETURN/releases/download/v1.0/HXNSTEIN.wad)
 
 **Screenshots:**
 
